@@ -1,0 +1,11 @@
+{
+	"name": "devre_dedektifleri",
+	"short_name": "devre_dedektifleri",
+	"description": "",
+	"start_url": "index.html",
+	"display": "fullscreen",
+	"orientation": "landscape",
+	"background_color": "#ffffff",
+	"icons": [],
+	"screenshots": []
+}
